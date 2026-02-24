@@ -1,3 +1,3 @@
 # aula-git-colaborativo
 Meu git com os comedias
-teste teste
+Vamos serios nessa porra
